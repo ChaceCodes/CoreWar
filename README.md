@@ -8,9 +8,9 @@
 Compile via Makefile
 "./corewar [flags] [champions: max 4]"
 Flags:
--ncurses
--n number
--dump dumpcycles
+-ncurses.
+-n number.
+-dump dumpcycles.
 
 #Contributors:
 Drikus Stander
