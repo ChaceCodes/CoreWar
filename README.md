@@ -8,11 +8,11 @@
 Compile via Makefile
 "./corewar [flags] [champions: max 4]"
 Flags:
--ncurses.
--n number.
--dump dumpcycles.
+-ncurses
+-n number
+-dump dumpcycle
 
-#Contributors:
+Contributors:
 Drikus Stander
 Hilgard Van Rooyen
 Chace Green
