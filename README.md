@@ -16,4 +16,4 @@ Contributors:
 Drikus Stander
 Hilgard Van Rooyen
 Chace Green
-Spencer Schaefer
+Spencer Schafer
