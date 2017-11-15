@@ -12,7 +12,7 @@ Flags:
 -n number
 -dump dumpcycle
 
-Contributors:
+# Contributors:
 Drikus Stander
 Hilgard Van Rooyen
 Chace Green
